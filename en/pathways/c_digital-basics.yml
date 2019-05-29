@@ -1,4 +1,5 @@
 index: 2
+title: Digital Basics
 list:
 - check: "Secure your [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
    or [Android](umbrella://tools/other/s_android.md)"
