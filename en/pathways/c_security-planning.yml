@@ -1,4 +1,5 @@
 index: 1
+title: Security Planning
 list:
 - check: Identify [threats](umbrella://assess-your-risk/security-planning/beginner) based on where you are and what you do  
 - check: Identify [threats to information](umbrella://information/managing-information/beginner) and how to protect it  
