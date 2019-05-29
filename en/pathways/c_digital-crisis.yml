@@ -1,4 +1,5 @@
 index: 4
+title: Digital Crisis
 list:
 - check: "You found [malware](umbrella://information/malware) on your computer" 
 - check: "Your email has been [hacked](umbrella://communications/email)"
