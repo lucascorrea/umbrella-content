@@ -1,0 +1,11 @@
+index: 4
+title: بحران دیجیتال
+list: 
+- check: "پیدا کردن [بدافزار](umbrella://information/malware) روی کامپیوتر شما" 
+- check: "ایمل شما  [هک](umbrella://communications/email) شده است"
+- check: "اینترنت [سانسور](umbrella://communications/censorship)"
+- check: "مواجهه با [سخنان نفرت انگیز](umbrella://communications/online-abuse/advanced/s_hate-speech.md) روی رسانه اجتماعی"
+- check: "پاسخ دادن به باج خواهی، داکسینگ، جعل هویت و موارد دیگر [سو استفاده آنلاین](umbrella://communications/online-abuse)"
+- check: "دریافت یک پیام [فیشینگ](umbrella://communications/phishing/beginner) "
+- check: "[پشتیبانی اضطراری](umbrella://emergency-support/digital)"
+- check: "گزارش یا ضبط [حوادث امنیتی دیجیتال](umbrella://forms/f_digital-security-incident.yml)"
