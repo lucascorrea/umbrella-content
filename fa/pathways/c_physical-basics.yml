@@ -1,0 +1,14 @@
+index: 3
+title: مبانی فیزیکی
+list: 
+- check: "علائم [استرس](umbrella://stress/stress)"
+- check: "[خانه و دفتر](umbrella://information/protect-your-workspace) امنیت"
+- check: "جوانب مثبت و منفی [بی سیم و تلفن ماهواره ای](umbrella://communications/radios-and-satellite-phones) ارتباطات"
+- check: "[پزشکی](umbrella://travel/preparation/beginner/s_medical.md) احتیاط برای سفر"
+- check: "[ساده احتیاط](umbrella://travel/borders/beginner) در محیط های خصمانه"
+- check: "همیشه [کمبرند ایمنی را ببندید](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
+- check: "آماده کردن یک [داستان پوششی](umbrella://travel/checkpoints/beginner)"
+- check: "معین کردن[کدها](umbrella://communications/mobile-phones/beginner/s_information-sent.md), [کلمات اجبار](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md), [اثبات زنده بودن](umbrella://forms/f_proof-life-form.yml) برای تیم شما"
+- check: "[مدیریت روابط](umbrella://work/public-communications) با مقامات، رسانه ها و مردم "
+- check: "[بسته بندی برای سفر](umbrella://travel/preparation/beginner), [وسیله نقلیه](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [خانه امن](umbrella://incident-response/evacuation/beginner/s_safe-houses.md), [با اضطراری کیف دستی](umbrella://travel/protective-equipment/beginner)"
+- check: "[تجهیزات](umbrella://travel/protective-equipment/advanced) برای شرایط شدید یا مبارزه"
