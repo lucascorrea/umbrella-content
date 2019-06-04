@@ -1,0 +1,23 @@
+index: 2
+title: Цифровой базис
+list:
+- check: «Защиту своего [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
+или [Android](umbrella://tools/other/s_android.md)»
+- check: «Знания о [HTTPS](umbrella://communications/email/beginner) и используйте его везде»
+- check: «Использование [надежных паролей](umbrella://information/passwords/beginner),
+[KeePassXC](umbrella://tools/encryption/s_keepassxc.md) и [двухфакторную аутентификацию](umbrella://information/passwords/advanced)»
+- check: «Использование Signal для [обмена сообщениями](umbrella://communications/sending-a-message/beginner) и [вызовов](umbrella://communications/making-a-call/beginner)
+(на [Android](umbrella://tools/messaging/s_signal-for-android.md) и [iOS](umbrella://tools/messaging/s_signal-for-ios.md))»
+- check: «[Удаление](umbrella://information/safely-deleting/beginner), [резервное копирование](umbrella://information/backing-up/advanced),
+   [восстановление](umbrella://information/backing-up/advanced/s_accidental-file-deletion.md) или [шифрование](umbrella://information/protecting-files/beginner) файлов»
+- check: «Выберите программное обеспечение [open source](umbrella://information/malware/beginner) и
+[безопасные настройки](umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)»
+- check: «Защиту от [вредоносных программ](umbrella://information/malware/advanced), [фишинга](umbrella://communications/phishing/beginner),
+и [социальной инженерии](umbrella://communications/phishing/beginner/s_social-engineering.md)»
+- check: «Осознанный выбор в отношении шифрования [e-mail](umbrella://communications/email/advanced)»
+- check: «Конфиденциальность в [социальных сетях, блогах и облаке](umbrella://communications/online-privacy/beginner)»
+- check: «Защиту своих [метаданных](umbrella://communications/online-privacy/advanced/s_anonymity-online.md)
+с такими инструментами, как [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)»
+- check: «Использование [VPN](umbrella://communications/censorship/beginner/s_virtual-private-networks.md), чтобы скрыть ваше местоположение, или
+[Tor](umbrella://communications/online-privacy/advanced/s_tor.md) для защиты вашей анонимности при ([Windows](umbrella://tools/tor/s_tor-for-windows.md),
+[Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))»
