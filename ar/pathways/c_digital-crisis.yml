@@ -1,0 +1,11 @@
+index: 4
+title: الأزمة الرقمية
+list:
+- check: "[لقد وجدت برامج ضارة](umbrella://information/malware) على جهاز الكمبيوتر الخاص بك" 
+- check: "[تم اختراق البريد الإلكتروني الخاص بك](umbrella://communications/email)"
+- check: "[الإنترنت رقابة](umbrella://communications/censorship)"
+- check: "[التعامل مع خطاب الكراهية](umbrella://communications/online-abuse/advanced/s_hate-speech.md) على وسائل التواصل الاجتماعي"
+- check: "الاستجابة للابتزاز أو, doxxing, [أو سرقة الهوية أو غير ذلك من إساءة الاستخدام عبر الإنترنت](umbrella://communications/online-abuse)"
+- check: "تلقي رسالة [phishing](umbrella://communications/phishing/beginner)"
+- check: "[دعم الطوارئ](umbrella://emergency-support/digital)"
+- check: "[الإبلاغ عن أو تسجيل حوادث الأمان الرقمية](umbrella://forms/f_digital-security-incident.yml)"
