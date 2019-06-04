@@ -1,0 +1,11 @@
+index: 4
+title: Crisis Digital
+list:
+- check: "Ha encontrado [malware](umbrella://information/malware) en su computadora" 
+- check: "Su email ha sido [hackeado](umbrella://communications/email)"
+- check: "[Censura](umbrella://communications/censorship) en Internet"
+- check: "Tratando el [discurso de odio](umbrella://communications/online-abuse/advanced/s_hate-speech.md) en redes sociales"
+- check: "Responder al chantaje, doxxing, robo de identidad, u otro [acoso online](umbrella://communications/online-abuse)"
+- check: "Recibiendo un mensaje de [phishing](umbrella://communications/phishing/beginner) message"
+- check: "[Apoyo de Emergencia](umbrella://emergency-support/digital)"
+- check: "Informar o registrar [incidentes de seguridad digital](umbrella://forms/f_digital-security-incident.yml)"
