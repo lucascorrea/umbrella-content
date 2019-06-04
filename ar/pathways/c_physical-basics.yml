@@ -1,0 +1,14 @@
+index: 3
+title: الأساسيات المادية
+list: 
+  - check: "[علامات الإجهاد](umbrella://stress/stress)"
+  - check: "[أمن المنزل والمكتب](umbrella://information/protect-your-workspace)"
+  - check: "[فوائد ومخاطر الاتصال عبر الراديو والهاتف عبر الأقمار الصناعية](umbrella://communications/radios-and-satellite-phones)"
+  - check: "[الاحتياطات الطبية للسفر](umbrella://travel/preparation/beginner/s_medical.md)"
+  - check: "[احتياطات بسيطة في بيئات معادية](umbrella://travel/borders/beginner)"
+  - check: "[دائما ارتداء حزام الأمان](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
+  - check: "[تحضير قصة الغلاف](umbrella://travel/checkpoints/beginner)"
+  - check: "[إنشاء كلمات مشفرة](umbrella://communications/mobile-phones/beginner/s_information-sent.md), [الكلمات عندما تكون في ورطة](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md), [والدليل على أنك على قيد الحياة](umbrella://forms/f_proof-life-form.yml)"
+  - check: "[إدارة العلاقات](umbrella://work/public-communications) مع السلطات ووسائل الإعلام والجمهور"
+  - check: "[حزمة لرحلة](umbrella://travel/preparation/beginner),  [مركبة](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [منزل امن](umbrella://incident-response/evacuation/beginner/s_safe-houses.md), [أو كيس انتزاع الطوارئ](umbrella://travel/protective-equipment/beginner)"
+  - check: "[معدات](umbrella://travel/protective-equipment/advanced) للظروف القاسية أو القتالية"
