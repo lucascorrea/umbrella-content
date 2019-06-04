@@ -1,0 +1,23 @@
+index: 2
+title: Fundamentos Digitales
+list:
+- check: "Asegure su [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md) 
+o [Android](umbrella://tools/other/s_android.md)"
+- check: "Obtenga información sobre [HTTPS](umbrella://communications/email/beginner) y cómo usarlo en todas partes"
+- check: "Utilice [contraseñas seguras](umbrella://information/passwords/beginner),
+   [KeePassXC](umbrella://tools/encryption/s_keepassxc.md), y [2FA](umbrella://information/passwords/advanced)"
+- check: "Use Signal para [mensajes](umbrella://communications/sending-a-message/beginner) y [llamadas](umbrella://communications/making-a-call/beginner)
+   ([Android](umbrella://tools/messaging/s_signal-for-android.md) y [iOS](umbrella://tools/messaging/s_signal-for-ios.md))"
+- check: "[Eliminar](umbrella://information/safely-deleting/beginner), [Respaldar](umbrella://information/backing-up/advanced), 
+   [restaurar](umbrella://information/backing-up/advanced/s_accidental-file-deletion.md), o [encriptar](umbrella://information/protecting-files/beginner) files"
+- check: "Elija software [open source](umbrella://information/malware/beginner) y 
+   [ajustes seguros](umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)"
+- check: "Defiéndase del [malware](umbrella://information/malware/advanced), [phishing](umbrella://communications/phishing/beginner), 
+   e [ingeniería social](umbrella://communications/phishing/beginner/s_social-engineering.md)"
+- check: "Elige de manera informada la encriptación de [email](umbrella://communications/email/advanced)" 
+- check: "Privacidad en [redes sociales, blogs, y la nube](umbrella://communications/online-privacy/beginner)"
+- check: "Proteja sus [metadatos](umbrella://communications/online-privacy/advanced/s_anonymity-online.md) 
+   con herramientas como [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)"
+- check: "Use una [VPN](umbrella://communications/censorship/beginner/s_virtual-private-networks.md) para ocultar su ubicación o 
+   [Tor](umbrella://communications/online-privacy/advanced/s_tor.md) para proteger el anonimato ([Windows](umbrella://tools/tor/s_tor-for-windows.md), 
+   [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))" 
