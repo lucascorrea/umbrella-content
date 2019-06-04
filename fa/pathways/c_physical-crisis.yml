@@ -1,0 +1,15 @@
+index: 5
+title: بحران فیزیکی
+list: 
+- check: "[نزریک شدن به مرز](umbrella://travel/borders/beginner)"
+- check: "[نزدیک شدن به ایست بازرسی](umbrella://travel/checkpoints/beginner/s_on-approach.md)"
+- check: "[وسیله نقلیه تصادفات](umbrella://travel/vehicles/beginner/s_accidents.md)"
+- check: "[اگر شما ربوده شدید](umbrella://incident-response/kidnapping/advanced/s_if-you-are-kidnapped.md), 
+   [دستگیر شدید](umbrella://incident-response/arrests/beginner/s_if-you-are-arrested.md), [مورد تجاوز جنسی قرار گرفته](umbrella://incident-response/sexual-assault/advanced)"
+- check: "[اگر عضوی از تیم ربوده شد](umbrella://incident-response/kidnapping/expert), 
+   [دستگیر شد](umbrella://incident-response/arrests/advanced), [تجاوز جنسی](umbrella://incident-response/sexual-assault/expert)"
+- check: "[تحت تعقیب شدن](umbrella://work/being-followed)"
+- check: "[هنگام تخلیه](umbrella://incident-response/evacuation/advanced)"
+- check: "[PTSD](umbrella://stress/stress/expert)"
+- check: "[پشتیبانی اورژانسی](umbrella://emergency-support/physical/beginner)"
+- check: "[گزارش یا ضبط حوادث امنیتی فیزیکی](umbrella://forms/f_physical-security-incident.yml)"
