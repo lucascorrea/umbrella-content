@@ -1,0 +1,14 @@
+index: 3
+title: Fundamentos Físicos
+list:
+- check: "Signos del [estrés](umbrella://stress/stress)"
+- check: Seguridad en "[Hogar y Oficina](umbrella://information/protect-your-workspace)"
+- check: "Pros y contras de comunicación de [radio y teléfono satelital](umbrella://communications/radios-and-satellite-phones)"
+- check: "Precauciones [médicas](umbrella://travel/preparation/beginner/s_medical.md) para el viaje"
+- check: "[Precauciones](umbrella://travel/borders/beginner) sencillas en ambientes hostiles"
+- check: "Siempre [use cinturón de seguridad](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
+- check: "Prepare una [pantalla](umbrella://travel/checkpoints/beginner)"
+- check: "Establezca [códigos](umbrella://communications/mobile-phones/beginner/s_information-sent.md), [palabras de cohersión](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md), y [prueba de vida](umbrella://forms/f_proof-life-form.yml) para su equipo\n"
+- check: "Gestione las [relaciones](umbrella://work/public-communications) con autoridades, medios y el público"
+- check: "Empaque para un [viaje](umbrella://travel/preparation/beginner), [vehículo](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [casa segura](umbrella://incident-response/evacuation/beginner/s_safe-houses.md), o [bolso](umbrella://travel/protective-equipment/beginner) de emergencia \n"
+- check: "[Equipo](umbrella://travel/protective-equipment/advanced) para condiciones extremas o de combate"
