@@ -1,0 +1,13 @@
+index: 1
+title: التخطيط الأمني
+list:
+- check: [تحديد التهديدات](umbrella://assess-your-risk/security-planning/beginner) فيما يتعلق أين أنت وعملك
+- check: [تحديد تهديدات المعلومات](umbrella://information/managing-information/beginner) وتعلم لحماية المعلومات 
+- check: [ضع خطة لحماية مساحة العمل الخاصة بك](umbrella://information/protect-your-workspace/beginner)  
+- check: [ضع خطة أمنية للسفر](umbrella://travel/preparation/beginner)
+- check: [تقييم المخاطر الخاصة بك قبل عبور الحدود](umbrella://travel/borders/beginner)  
+- check: [على استعداد للسفر أكثر أمانا مع المركبات](umbrella://travel/vehicles/beginner)  
+- check: [قلل من خطر الاختطاف](umbrella://incident-response/kidnapping/beginner), 
+   [يقبض على](umbrella://incident-response/arrests/beginner), [أو الوقوع ضحية اعتداء جنسي](umbrella://incident-response/sexual-assault/beginner)  
+- check: [الاستعداد للعمل في الاحتجاجات](umbrella://work/protests/beginner) [أو المشاركة فيها](umbrella://work/protests/advanced)  
+- check: [إنشاء خطة الإخلاء](umbrella://incident-response/evacuation/beginner)  
