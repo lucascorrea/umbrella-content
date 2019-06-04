@@ -1,0 +1,13 @@
+index: 1
+title: Планирование безопасности
+list:
+- check: Выявление [угроз](umbrella://assess-your-risk/security-planning/beginner) в зависимости от того, где вы находитесь и чем занимаетесь
+- check: Выявление [угроз для информации](umbrella://information/managing-information/beginner) и как ее защитить
+- check: Составление плана [защиты вашего рабочего пространства](umbrella://information/protect-your-workspace/beginner)
+- check: Cоставление плана [безопасной поездки](umbrella://travel/preparation/beginner)
+- check: Оценку своего риска перед пересечением [границы](umbrella://travel/borders/beginner)
+- check: Подготовку более безопасного [транспортного средства](umbrella://travel/vehicles/beginner)
+- check: Уменьшение риска [похищения людей](umbrella://incident-response/kidnapping/beginner),
+[ареста](umbrella://incident-response/arrests/beginner) и [сексуального насилия](umbrella://incident-response/sexual-assault/beginner)
+- check: Подготовку [прикрытия](umbrella://work/protests/beginner) или [участия](umbrella://work/protests/advanced) в протестах
+- check: Создание плана [эвакуации](umbrella://incident-response/evacuation/beginner)
