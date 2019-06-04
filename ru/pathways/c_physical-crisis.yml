@@ -1,0 +1,15 @@
+index: 5
+title: Физический кризис
+list:
+- check: «Приближение к [границе](umbrella://travel/borders/beginner)»
+- check: «Приближение к [контрольной точке](umbrella://travel/checkpoints/beginner/s_on-approach.md)»
+- check: «Транспортное средство и [ДТП](umbrella://travel/vehicles/beginner/s_accidents.md)»
+- check: «Если вы [похищены](umbrella://incident-response/kidnapping/advanced/s_if-you-are-kidnapped.md),
+[арестованы](umbrella://incident-response/arrests/beginner/s_if-you-are-arrested.md) или [подверглись сексуальному насилию](umbrella://incident-response/sexual-assault/advanced)»
+- check: «Если член команды [похищен](umbrella://incident-response/kidnapping/expert),
+[арестован](umbrella://incident-response/arrests/advanced) или [подвергся сексуальному насилию](umbrella://incident-response/sexual-assault/expert)»
+- check: «[Под наблюдением](umbrella://work/being-followed)»
+- check: «Когда [эвакуироваться](umbrella://incident-response/evacuation/advanced)»
+- check: «[ПТСР](umbrella://stress/stress/expert)»
+- check: «[Поддержку в чрезвычайной ситуации](umbrella://emergency-support/physical/beginner)»
+- check: «Отчеты или записи [инцидентов физической безопасности](umbrella://forms/f_physical-security-incident.yml)»
