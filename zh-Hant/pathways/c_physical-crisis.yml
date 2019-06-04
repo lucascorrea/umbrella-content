@@ -1,0 +1,15 @@
+index：5
+title：物理危機
+list：
+- check：“接近[邊界](umbrella://travel/borders/beginner)”
+- check：“接近[檢查點](umbrella://travel/checkpoints/beginner/s_on-approach.md)”
+- 檢查：“車禍[事故](umbrella://travel/vehicles/beginner/s_accidents.md)”
+- check：“如果你[被綁架](umbrella://incident-response/kidnapping/advanced/s_if-you-are-kidnapped.md)，
+[被捕](umbrella://incident-response/arrests/beginner/s_if-you-are-arrested.md)，或[性侵犯](umbrella://incident-response/sexual-assault/advanced)“
+- check：“如果團隊成員被[綁架](umbrella://incident-response/kidnapping/expert)，
+[被捕](umbrella://incident-response/arrests/advanced)，或[性侵犯](umbrella://incident-response/sexual-assault/expert)
+- check：“被[跟蹤](umbrella://work/being-followed)”
+- check：“何時[撤離](umbrella://incident-response/evacuation/advanced)”
+- check：“[PTSD](umbrella://stress/stress/expert)”
+- check：“[緊急支援](umbrella://emergency-support/physical/beginner)”
+- check：“報告或記錄[物理安全事件](umbrella://forms/f_physical-security-incident.yml)”
