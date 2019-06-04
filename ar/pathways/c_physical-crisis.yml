@@ -1,0 +1,15 @@
+index: 5
+title: الأزمة الجسدية
+list:
+- check: "[تقترب من الحدود](umbrella://travel/borders/beginner)"
+- check: "[تقترب من نقطة تفتيش](umbrella://travel/checkpoints/beginner/s_on-approach.md)"
+- check: "[حوادث المركبات](umbrella://travel/vehicles/beginner/s_accidents.md)"
+- check: "[إذا تم اختطافك](umbrella://incident-response/kidnapping/advanced/s_if-you-are-kidnapped.md), 
+   [القى القبض](umbrella://incident-response/arrests/beginner/s_if-you-are-arrested.md), [أو ضحية الاعتداء الجنسي](umbrella://incident-response/sexual-assault/advanced)"
+- check: "[إذا تم اختطاف عضو في الفريق](umbrella://incident-response/kidnapping/expert), [القى القبض](umbrella://incident-response/arrests/advanced),
+   [أو ضحية الاعتداء الجنسي](umbrella://incident-response/sexual-assault/expert)"
+- check: "[يجري اتباعها](umbrella://work/being-followed)"
+- check: "[متى يتم الإخلاء؟](umbrella://incident-response/evacuation/advanced)"
+- check: "[PTSD](umbrella://stress/stress/expert)"
+- check: "[دعم الطوارئ](umbrella://emergency-support/physical/beginner)"
+- check: "[الإبلاغ عن أو تسجيل حوادث الأمان الجسدي](umbrella://forms/f_physical-security-incident.yml)"
