@@ -1,14 +1,14 @@
 index: 3
 title: Физический базис
-list: 
-- check: «Признаки [стресса](umbrella://stress/stress)»
-- check: «[Дом и офис](umbrella://information/protect-your-workspace) на безопасность»
-- check: «Плюсы и минусы [радио и спутниковой связи](umbrella://communications/radios-and-satellite-phones)»
-- check: «[Медицинские](umbrella://travel/preparation/beginner/s_medical.md) меры предосторожности при поездках»
-- check: «Простые [меры предосторожности](umbrella://travel/borders/beginner) в агрессивных средах»
-- check: «Всегда [пристегивайте ремень безопасности](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)»
-- check: «Подготовка [истории прикрытия](umbrella://travel/checkpoints/beginner)»
-- check: «Установление [кодов](umbrella://communications/mobile-phones/beginner/s_information-sent.md), [слов принуждения](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md) и [доказательства жизни](umbrella://forms/f_proof-life-form.yml) для вашей команды \n»
-- check: «Управление [отношениями](umbrella://work/public-communications) с властями, средствами массовой информации и общественностью»
-- check: «Сумку для [поездки](umbrella://travel/preparation/beginner), [транспортное средство](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [безопасное жилье](umbrella://incident-response/evacuation/beginner/s_safe-houses.md) или аварийную [экстренную сумку](umbrella://travel/protective-equipment/beginner) \n»
-- check: «[Оборудование](umbrella://travel/protective-equipment/advanced) для экстремальных или боевых условий»
+list:
+- check: "Признаки [стресса](umbrella://stress/stress)"
+- check: "[Дом и офис](umbrella://information/protect-your-workspace) на безопасность"
+- check: "Плюсы и минусы [радио и спутниковой связи](umbrella://communications/radios-and-satellite-phones)"
+- check: "[Медицинские](umbrella://travel/preparation/beginner/s_medical.md) меры предосторожности при поездках"
+- check: "Простые [меры предосторожности](umbrella://travel/borders/beginner) в агрессивных средах"
+- check: "Всегда [пристегивайте ремень безопасности](umbrella://travel/vehicles/beginner/s_wear-a-seatbelt.md)"
+- check: "Подготовка [истории прикрытия](umbrella://travel/checkpoints/beginner)"
+- check: "Установление [кодов](umbrella://communications/mobile-phones/beginner/s_information-sent.md), [слов принуждения](umbrella://communications/radios-and-satellite-phones/beginner/s_radio-procedures.md) и [доказательства жизни](umbrella://forms/f_proof-life-form.yml) для вашей команды \n"
+- check: "Управление [отношениями](umbrella://work/public-communications) с властями, средствами массовой информации и общественностью"
+- check: "Сумку для [поездки](umbrella://travel/preparation/beginner), [транспортное средство](umbrella://travel/vehicles/beginner/s_drivers-and-vehicles.md), [безопасное жилье](umbrella://incident-response/evacuation/beginner/s_safe-houses.md) или аварийную [экстренную сумку](umbrella://travel/protective-equipment/beginner) \n"
+- check: "[Оборудование](umbrella://travel/protective-equipment/advanced) для экстремальных или боевых условий»

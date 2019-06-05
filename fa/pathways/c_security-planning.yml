@@ -1,13 +1,13 @@
 index: 1
 title: برنامه ریزی امنیتی
-list: 
-- check: [شناسایی تهدیدها](umbrella://assess-your-risk/security-planning/beginner) بر اساس جایی که هستید و کاری که انجام می دهید
-- check: [شناسایی تهدیدها برای اطلاعات](umbrella://information/managing-information/beginner) و چگونگی محافظت از آنها
-- check: [برنامه ریختن برای محافظت از فضای کاری](umbrella://information/protect-your-workspace/beginner)  
-- check: [برنامه ریختن برای امنیت سفر](umbrella://travel/preparation/beginner) 
-- check: [قبل از عبور خطر خود را ارزیابی کنید مرزها](umbrella://travel/borders/beginner)  
-- check: [آماده شدن برای سفر وسیله نقلیه](umbrella://travel/vehicles/beginner)
-- check: [کاهش ریسک آدم ربایی](umbrella://incident-response/kidnapping/beginner), 
-   [دستگیر شدن](umbrella://incident-response/arrests/beginner), [تجاوز جنسی](umbrella://incident-response/sexual-assault/beginner)  
-- check: [آمادگی برای پوشش](umbrella://work/protests/beginner), [مشارکت](umbrella://work/protests/advanced) در تظاهرات
-- check: [ایجاد یک تخلیه](umbrella://incident-response/evacuation/beginner) برنامه ریزی
+list:
+- check: "[شناسایی تهدیدها](umbrella://assess-your-risk/security-planning/beginner) بر اساس جایی که هستید و کاری که انجام می دهید"
+- check: "[شناسایی تهدیدها برای اطلاعات](umbrella://information/managing-information/beginner) و چگونگی محافظت از آنها"
+- check: "[برنامه ریختن برای محافظت از فضای کاری](umbrella://information/protect-your-workspace/beginner)"
+- check: "[برنامه ریختن برای امنیت سفر](umbrella://travel/preparation/beginner)"
+- check: "[قبل از عبور خطر خود را ارزیابی کنید مرزها](umbrella://travel/borders/beginner)"
+- check: "[آماده شدن برای سفر وسیله نقلیه](umbrella://travel/vehicles/beginner)"
+- check: "[کاهش ریسک آدم ربایی](umbrella://incident-response/kidnapping/beginner),
+   [دستگیر شدن](umbrella://incident-response/arrests/beginner), [تجاوز جنسی](umbrella://incident-response/sexual-assault/beginner)"
+- check: "[آمادگی برای پوشش](umbrella://work/protests/beginner), [مشارکت](umbrella://work/protests/advanced) در تظاهرات"
+- check: "[ایجاد یک تخلیه](umbrella://incident-response/evacuation/beginner) برنامه ریزی"

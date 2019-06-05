@@ -4,20 +4,20 @@ list:
 - check: "قم بتأمين [iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
  أو [Android](umbrella://tools/other/s_android.md)"
 - check: "تعرف على [HTTPS](umbrella://communications/email/beginner) واستخدامها في كل مكان"
-- check: "[استخدام كلمات مرور قوية](umbrella://information/passwords/beginner), 
+- check: "[استخدام كلمات مرور قوية](umbrella://information/passwords/beginner),
    [KeePassXC](umbrella://tools/encryption/s_keepassxc.md), [2FA](umbrella://information/passwords/advanced)"
-- check: "[استخدم Signal للمراسلة](umbrella://communications/sending-a-message/beginner), [إتصالات هاتفية](umbrella://communications/making-a-call/beginner) 
+- check: "[استخدم Signal للمراسلة](umbrella://communications/sending-a-message/beginner), [إتصالات هاتفية](umbrella://communications/making-a-call/beginner)
    على [Android](umbrella://tools/messaging/s_signal-for-android.md), [iOS](umbrella://tools/messaging/s_signal-for-ios.md)"
-- check: "[حذف](umbrella://information/safely-deleting/beginner), [كفل](umbrella://information/backing-up/advanced), 
+- check: "[حذف](umbrella://information/safely-deleting/beginner), [كفل](umbrella://information/backing-up/advanced),
    [استعادة](umbrella://information/backing-up/advanced/s_accidental-file-deletion.md), [تشفير](umbrella://information/protecting-files/beginner) ملفات"
-- check: "[اختيار البرمجيات مفتوحة المصدر](umbrella://information/malware/beginner),  
+- check: "[اختيار البرمجيات مفتوحة المصدر](umbrella://information/malware/beginner),
    [استخدام إعدادات آمنة](umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)"
-- check: "[تدافع عن نفسك من البرامج الضارة](umbrella://information/malware/advanced), [التصيد](umbrella://communications/phishing/beginner), 
+- check: "[تدافع عن نفسك من البرامج الضارة](umbrella://information/malware/advanced), [التصيد](umbrella://communications/phishing/beginner),
    [هندسة اجتماعية](umbrella://communications/phishing/beginner/s_social-engineering.md)"
-- check: "[اتخاذ قرار مستنير حول البريد الإلكتروني](umbrella://communications/email/advanced) encryption" 
+- check: "[اتخاذ قرار مستنير حول البريد الإلكتروني](umbrella://communications/email/advanced) encryption"
 - check: "[الخصوصية على وسائل التواصل الاجتماعي والمدونات والسحابة](umbrella://communications/online-privacy/beginner)"
 - check: "[حماية البيانات الوصفية الخاصة بك](umbrella://communications/online-privacy/advanced/s_anonymity-online.md) مع أدوات مثل
   [ObscuraCam](umbrella://tools/messaging/s_obscuracam.md)"
-- check: "[استخدم VPN لإخفاء موقعك](umbrella://communications/censorship/beginner/s_virtual-private-networks.md)
-- check: "[استخدم Tor لحماية غموضك](umbrella://communications/online-privacy/advanced/s_tor.md); ([Windows](umbrella://tools/tor/s_tor-for-windows.md), 
-   [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))" 
+- check: "[استخدم VPN لإخفاء موقعك](umbrella://communications/censorship/beginner/s_virtual-private-networks.md)"
+- check: "[استخدم Tor لحماية غموضك](umbrella://communications/online-privacy/advanced/s_tor.md); ([Windows](umbrella://tools/tor/s_tor-for-windows.md),
+   [Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))"

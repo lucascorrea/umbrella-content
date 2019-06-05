@@ -1,23 +1,23 @@
-index：2
-title：數字基礎
-list：
-- check：“保護你的[iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
+index: 2
+title: 數字基礎
+list:
+- check: "保護你的[iPhone](umbrella://tools/encryption/s_encrypt-your-iphone.md)
 或[Android](umbrella://tools/other/s_android.md)"
-- check：“了解[HTTPS](umbrella://communications/email/beginner)並在任何地方使用它”
-- check：“使用[強密碼](umbrella://information/passwords/beginner)，
+- check: "了解[HTTPS](umbrella://communications/email/beginner)並在任何地方使用它"
+- check: "使用[強密碼](umbrella://information/passwords/beginner)，
 [KeePassXC](umbrella://tools/encryption/s_keepassxc.md), 和 [2FA](umbrella://information/passwords/advanced)"
-- check：“使用Signal進行[消息傳遞](umbrella://communications/sending-a-message/beginner) 和 [呼叫](umbrella://communications/making-a-call/beginner)
+- check: "使用Signal進行[消息傳遞](umbrella://communications/sending-a-message/beginner) 和 [呼叫](umbrella://communications/making-a-call/beginner)
    ([安卓](umbrella://tools/messaging/s_signal-for-android.md) 和 [iOS](umbrella://tools/messaging/s_signal-for-ios.md))"
-- check：“[刪除](umbrella://information/safely-deleting/beginner)，[備份](umbrella://information/backing-up/advanced)，
-[還原](umbrella://information/backing-up/advanced/s_accidental-file-deletion.md) 或 [加密](umbrella://information/protecting-files/beginner) 文件“
-- check：“選擇 [開源](umbrella://information/malware/beginner) 軟件和
-[安全設置](umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)“
-- check：“保護自己免受[惡意軟件](umbrella://information/malware/advanced)，[網絡釣魚](umbrella://communications/phishing/beginner) 攻擊，
-和[社會工程]umbrella://communications/phishing/beginner/s_social-engineering.md)“
-- check：“對[電子郵件](umbrella://communications/email/advanced) 加密做出明智的選擇”
-- check：“[社交媒體，博客和雲端](umbrella://communications/online-privacy/beginner) 的隱私權”
-- check：“保護您的[元數據](umbrella://communications/online-privacy/advanced/s_anonymity-online.md)
-使用像[ObscuraCam]這樣的工具(umbrella://tools/messaging/s_obscuracam.md)“
-- check：“使用[VPN](umbrella://communications/censorship/beginner/s_virtual-private-networks.md) 來隱藏您的位置或
+- check: "[刪除](umbrella://information/safely-deleting/beginner)，[備份](umbrella://information/backing-up/advanced)，
+[還原](umbrella://information/backing-up/advanced/s_accidental-file-deletion.md) 或 [加密](umbrella://information/protecting-files/beginner) 文件"
+- check: "選擇 [開源](umbrella://information/malware/beginner) 軟件和
+[安全設置](umbrella://information/protect-your-workspace/expert/s_software-and-settings.md)"
+- check: "保護自己免受[惡意軟件](umbrella://information/malware/advanced)，[網絡釣魚](umbrella://communications/phishing/beginner) 攻擊，
+和[社會工程]umbrella://communications/phishing/beginner/s_social-engineering.md)"
+- check: "對[電子郵件](umbrella://communications/email/advanced) 加密做出明智的選擇"
+- check: "[社交媒體，博客和雲端](umbrella://communications/online-privacy/beginner) 的隱私權"
+- check: "保護您的[元數據](umbrella://communications/online-privacy/advanced/s_anonymity-online.md)
+使用像[ObscuraCam]這樣的工具(umbrella://tools/messaging/s_obscuracam.md)"
+- check: "使用[VPN](umbrella://communications/censorship/beginner/s_virtual-private-networks.md) 來隱藏您的位置或
 [Tor](umbrella://communications/online-privacy/advanced/s_tor.md) 可保護您的匿名性([Windows](umbrella://tools/tor/s_tor-for-windows.md)，
-[Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))" 
+[Mac](umbrella://tools/tor/s_tor-for-mac-os-x.md), [Linux](umbrella://tools/tor/s_tor-for-linux.md))"

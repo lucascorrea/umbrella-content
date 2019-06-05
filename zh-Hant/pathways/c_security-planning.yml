@@ -1,13 +1,13 @@
 index: 1
-title：安全計劃
-list：
-- check：根據您所處的位置以及您的工作確定[威脅](umbrella://assess-your-risk/security-planning/beginner)
-- check：識別 [信息威脅](umbrella://information/managing-information/beginner) 以及如何保護它
-- check：制定計劃來 [保護您的工作空間](umbrella://information/protect-your-workspace/beginner)
-- check：制定 [旅行安全](umbrella://travel/preparation/beginner) 計劃
-- check：在越過 [邊界](umbrella://travel/borders/beginner) 之前評估您的風險
-- check：準備更安全的[車輛](umbrella://travel/vehicles/beginner) 旅行
-- check：降低 [綁架](umbrella://incident-response/kidnapping/beginner) 的風險，
-[逮捕](umbrella://incident-response/arrests/beginner) 和 [性侵犯](umbrella://incident-response/sexual-assault/beginner)
-- check：在抗議活動中做好[掩護]umbrella://work/protests/beginner) 或[參與](umbrella://work/protests/advanced)的準備 
-- check：創建 [疏散](umbrella://incident-response/evacuation/beginner) 計劃
+title: 安全計劃
+list:
+- check: "根據您所處的位置以及您的工作確定[威脅](umbrella://assess-your-risk/security-planning/beginner)"
+- check: "識別 [信息威脅](umbrella://information/managing-information/beginner) 以及如何保護它"
+- check: "制定計劃來 [保護您的工作空間](umbrella://information/protect-your-workspace/beginner)"
+- check: "制定 [旅行安全](umbrella://travel/preparation/beginner) 計劃"
+- check: "在越過 [邊界](umbrella://travel/borders/beginner) 之前評估您的風險"
+- check: "準備更安全的[車輛](umbrella://travel/vehicles/beginner) 旅行"
+- check: "降低 [綁架](umbrella://incident-response/kidnapping/beginner) 的風險，
+[逮捕](umbrella://incident-response/arrests/beginner) 和 [性侵犯](umbrella://incident-response/sexual-assault/beginner)"
+- check: "在抗議活動中做好[掩護]umbrella://work/protests/beginner) 或[參與](umbrella://work/protests/advanced)的準備"
+- check: "創建 [疏散](umbrella://incident-response/evacuation/beginner) 計劃"

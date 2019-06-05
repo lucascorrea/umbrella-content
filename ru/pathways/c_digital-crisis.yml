@@ -1,11 +1,11 @@
 index: 4
 title: Цифровой кризис
 list:
-- check: «Если вы обнаружили [вредоносное ПО](umbrella://information/malware) на своем компьютере»
-- check: «Если ваш электронный адрес [взломан](umbrella://communications/email)»
-- check: «[Интернет-цензура](umbrella://communications/censorship)»
-- check: «Работу с [ненавистническими высказываниями](umbrella://communications/online-abuse/advanced/s_hate-speech.md) в социальных сетях»
-- check: «Ответ на шантаж, клевету, кражу личных данных или другие [онлайн-злоупотребления](umbrella://communications/online-abuse)»
-- check: «Получение [фишинг-сообщений](umbrella://communications/phishing/beginner)»
-- check: «[Поддержку в чрезвычайной ситуации](umbrella://emergency-support/digital)»
-- check: «Отчеты или записи [инцидентов цифровой безопасности](umbrella://forms/f_digital-security-incident.yml)»
+- check: "Если вы обнаружили [вредоносное ПО](umbrella://information/malware) на своем компьютере"
+- check: "Если ваш электронный адрес [взломан](umbrella://communications/email)"
+- check: "[Интернет-цензура](umbrella://communications/censorship)"
+- check: "Работу с [ненавистническими высказываниями](umbrella://communications/online-abuse/advanced/s_hate-speech.md) в социальных сетях"
+- check: "Ответ на шантаж, клевету, кражу личных данных или другие [онлайн-злоупотребления](umbrella://communications/online-abuse)"
+- check: "Получение [фишинг-сообщений](umbrella://communications/phishing/beginner)"
+- check: "[Поддержку в чрезвычайной ситуации](umbrella://emergency-support/digital)"
+- check: "Отчеты или записи [инцидентов цифровой безопасности](umbrella://forms/f_digital-security-incident.yml)"
